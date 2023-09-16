@@ -1,0 +1,203 @@
+G:\Quiz System\Quiz Management\Quiz Management\bin\Debug\net6.0-windows\Quiz Management.exe
+G:\Quiz System\Quiz Management\Quiz Management\bin\Debug\net6.0-windows\Quiz Management.deps.json
+G:\Quiz System\Quiz Management\Quiz Management\bin\Debug\net6.0-windows\Quiz Management.runtimeconfig.json
+G:\Quiz System\Quiz Management\Quiz Management\bin\Debug\net6.0-windows\Quiz Management.dll
+G:\Quiz System\Quiz Management\Quiz Management\bin\Debug\net6.0-windows\Quiz Management.pdb
+G:\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\Quiz Management.csproj.AssemblyReference.cache
+G:\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\Quiz Management.csproj.GenerateResource.cache
+G:\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\Quiz Management.GeneratedMSBuildEditorConfig.editorconfig
+G:\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\Quiz Management.AssemblyInfoInputs.cache
+G:\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\Quiz Management.AssemblyInfo.cs
+G:\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\Quiz Management.csproj.CoreCompileInputs.cache
+G:\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\Quiz Management.dll
+G:\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\refint\Quiz Management.dll
+G:\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\Quiz Management.pdb
+G:\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\Quiz Management.genruntimeconfig.cache
+G:\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\ref\Quiz Management.dll
+G:\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\Quiz_Management.Questions.resources
+G:\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\Quiz_Management.Properties.Resources.resources
+G:\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\Quiz_Management.Candidate.resources
+G:\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\Quiz_Management.Subjects.resources
+G:\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\Quiz_Management.Exams.resources
+G:\Quiz System\Quiz Management\Quiz Management\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+G:\Quiz System\Quiz Management\Quiz Management\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+G:\Quiz System\Quiz Management\Quiz Management\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+G:\Quiz System\Quiz Management\Quiz Management\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+G:\Quiz System\Quiz Management\Quiz Management\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\Quiz System\Quiz Management\Quiz Management\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\Quiz_Management.Login.resources
+G:\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\Quiz_Management.Splash.resources
+G:\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\Quiz Management.csproj.CopyComplete
+G:\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\Quiz_Management.Login2.resources
+G:\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\Quiz_Management.Login3.resources
+G:\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\Quiz_Management.Examiner_addLecturer.resources
+G:\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\Quiz_Management.Examiner_AddQuestion.resources
+G:\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\Quiz_Management.Examiner_seeStudent.resources
+G:\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\Quiz_Management.CandidateRegister.resources
+G:\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\Quiz_Management.LecturerRegister.resources
+G:\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\Quiz_Management.ExaminerRegister.resources
+G:\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\Quiz_Management.Testing.resources
+F:\Quiz System\Quiz Management\Quiz Management\bin\Debug\net6.0-windows\Quiz Management.exe
+F:\Quiz System\Quiz Management\Quiz Management\bin\Debug\net6.0-windows\Quiz Management.deps.json
+F:\Quiz System\Quiz Management\Quiz Management\bin\Debug\net6.0-windows\Quiz Management.runtimeconfig.json
+F:\Quiz System\Quiz Management\Quiz Management\bin\Debug\net6.0-windows\Quiz Management.dll
+F:\Quiz System\Quiz Management\Quiz Management\bin\Debug\net6.0-windows\Quiz Management.pdb
+F:\Quiz System\Quiz Management\Quiz Management\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+F:\Quiz System\Quiz Management\Quiz Management\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+F:\Quiz System\Quiz Management\Quiz Management\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+F:\Quiz System\Quiz Management\Quiz Management\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+F:\Quiz System\Quiz Management\Quiz Management\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Quiz System\Quiz Management\Quiz Management\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\Quiz Management.csproj.AssemblyReference.cache
+F:\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\Quiz_Management.Candidate.resources
+F:\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\Quiz_Management.CandidateRegister.resources
+F:\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\Quiz_Management.ExaminerRegister.resources
+F:\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\Quiz_Management.Examiner_addLecturer.resources
+F:\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\Quiz_Management.Examiner_AddQuestion.resources
+F:\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\Quiz_Management.Examiner_seeStudent.resources
+F:\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\Quiz_Management.Exams.resources
+F:\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\Quiz_Management.LecturerRegister.resources
+F:\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\Quiz_Management.Login.resources
+F:\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\Quiz_Management.Login2.resources
+F:\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\Quiz_Management.Login3.resources
+F:\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\Quiz_Management.Properties.Resources.resources
+F:\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\Quiz_Management.Questions.resources
+F:\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\Quiz_Management.Splash.resources
+F:\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\Quiz_Management.Subjects.resources
+F:\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\Quiz_Management.Testing.resources
+F:\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\Quiz_Management.Testing2.resources
+F:\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\Quiz Management.csproj.GenerateResource.cache
+F:\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\Quiz Management.GeneratedMSBuildEditorConfig.editorconfig
+F:\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\Quiz Management.AssemblyInfoInputs.cache
+F:\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\Quiz Management.AssemblyInfo.cs
+F:\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\Quiz Management.csproj.CoreCompileInputs.cache
+F:\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\Quiz Management.csproj.CopyComplete
+F:\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\Quiz Management.dll
+F:\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\refint\Quiz Management.dll
+F:\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\Quiz Management.pdb
+F:\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\Quiz Management.genruntimeconfig.cache
+F:\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\ref\Quiz Management.dll
+F:\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\Quiz_Management.CandidatePortal.resources
+C:\Users\abdul\OneDrive\Desktop\CB010735 - SDAM II\Quiz System\Quiz Management\Quiz Management\bin\Debug\net6.0-windows\Quiz Management.exe
+C:\Users\abdul\OneDrive\Desktop\CB010735 - SDAM II\Quiz System\Quiz Management\Quiz Management\bin\Debug\net6.0-windows\Quiz Management.deps.json
+C:\Users\abdul\OneDrive\Desktop\CB010735 - SDAM II\Quiz System\Quiz Management\Quiz Management\bin\Debug\net6.0-windows\Quiz Management.runtimeconfig.json
+C:\Users\abdul\OneDrive\Desktop\CB010735 - SDAM II\Quiz System\Quiz Management\Quiz Management\bin\Debug\net6.0-windows\Quiz Management.dll
+C:\Users\abdul\OneDrive\Desktop\CB010735 - SDAM II\Quiz System\Quiz Management\Quiz Management\bin\Debug\net6.0-windows\Quiz Management.pdb
+C:\Users\abdul\OneDrive\Desktop\CB010735 - SDAM II\Quiz System\Quiz Management\Quiz Management\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\abdul\OneDrive\Desktop\CB010735 - SDAM II\Quiz System\Quiz Management\Quiz Management\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\abdul\OneDrive\Desktop\CB010735 - SDAM II\Quiz System\Quiz Management\Quiz Management\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\abdul\OneDrive\Desktop\CB010735 - SDAM II\Quiz System\Quiz Management\Quiz Management\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\abdul\OneDrive\Desktop\CB010735 - SDAM II\Quiz System\Quiz Management\Quiz Management\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\abdul\OneDrive\Desktop\CB010735 - SDAM II\Quiz System\Quiz Management\Quiz Management\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\abdul\OneDrive\Desktop\CB010735 - SDAM II\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\Quiz Management.csproj.AssemblyReference.cache
+C:\Users\abdul\OneDrive\Desktop\CB010735 - SDAM II\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\Quiz_Management.Candidate.resources
+C:\Users\abdul\OneDrive\Desktop\CB010735 - SDAM II\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\Quiz_Management.CandidatePortal.resources
+C:\Users\abdul\OneDrive\Desktop\CB010735 - SDAM II\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\Quiz_Management.CandidateRegister.resources
+C:\Users\abdul\OneDrive\Desktop\CB010735 - SDAM II\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\Quiz_Management.ExaminerRegister.resources
+C:\Users\abdul\OneDrive\Desktop\CB010735 - SDAM II\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\Quiz_Management.Examiner_addLecturer.resources
+C:\Users\abdul\OneDrive\Desktop\CB010735 - SDAM II\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\Quiz_Management.Examiner_AddQuestion.resources
+C:\Users\abdul\OneDrive\Desktop\CB010735 - SDAM II\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\Quiz_Management.Examiner_seeStudent.resources
+C:\Users\abdul\OneDrive\Desktop\CB010735 - SDAM II\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\Quiz_Management.Exams.resources
+C:\Users\abdul\OneDrive\Desktop\CB010735 - SDAM II\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\Quiz_Management.LecturerRegister.resources
+C:\Users\abdul\OneDrive\Desktop\CB010735 - SDAM II\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\Quiz_Management.Login.resources
+C:\Users\abdul\OneDrive\Desktop\CB010735 - SDAM II\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\Quiz_Management.Login2.resources
+C:\Users\abdul\OneDrive\Desktop\CB010735 - SDAM II\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\Quiz_Management.Login3.resources
+C:\Users\abdul\OneDrive\Desktop\CB010735 - SDAM II\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\Quiz_Management.Properties.Resources.resources
+C:\Users\abdul\OneDrive\Desktop\CB010735 - SDAM II\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\Quiz_Management.Questions.resources
+C:\Users\abdul\OneDrive\Desktop\CB010735 - SDAM II\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\Quiz_Management.Splash.resources
+C:\Users\abdul\OneDrive\Desktop\CB010735 - SDAM II\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\Quiz_Management.Subjects.resources
+C:\Users\abdul\OneDrive\Desktop\CB010735 - SDAM II\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\Quiz_Management.Testing.resources
+C:\Users\abdul\OneDrive\Desktop\CB010735 - SDAM II\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\Quiz_Management.Testing2.resources
+C:\Users\abdul\OneDrive\Desktop\CB010735 - SDAM II\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\Quiz Management.csproj.GenerateResource.cache
+C:\Users\abdul\OneDrive\Desktop\CB010735 - SDAM II\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\Quiz Management.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdul\OneDrive\Desktop\CB010735 - SDAM II\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\Quiz Management.AssemblyInfoInputs.cache
+C:\Users\abdul\OneDrive\Desktop\CB010735 - SDAM II\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\Quiz Management.AssemblyInfo.cs
+C:\Users\abdul\OneDrive\Desktop\CB010735 - SDAM II\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\Quiz Management.csproj.CoreCompileInputs.cache
+C:\Users\abdul\OneDrive\Desktop\CB010735 - SDAM II\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\Quiz Management.csproj.CopyComplete
+C:\Users\abdul\OneDrive\Desktop\CB010735 - SDAM II\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\Quiz Management.dll
+C:\Users\abdul\OneDrive\Desktop\CB010735 - SDAM II\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\refint\Quiz Management.dll
+C:\Users\abdul\OneDrive\Desktop\CB010735 - SDAM II\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\Quiz Management.pdb
+C:\Users\abdul\OneDrive\Desktop\CB010735 - SDAM II\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\Quiz Management.genruntimeconfig.cache
+C:\Users\abdul\OneDrive\Desktop\CB010735 - SDAM II\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\ref\Quiz Management.dll
+C:\Users\abdul\OneDrive\Desktop\BSC\CB010735 - SDAM II\Quiz System\Quiz Management\Quiz Management\bin\Debug\net6.0-windows\Quiz Management.exe
+C:\Users\abdul\OneDrive\Desktop\BSC\CB010735 - SDAM II\Quiz System\Quiz Management\Quiz Management\bin\Debug\net6.0-windows\Quiz Management.deps.json
+C:\Users\abdul\OneDrive\Desktop\BSC\CB010735 - SDAM II\Quiz System\Quiz Management\Quiz Management\bin\Debug\net6.0-windows\Quiz Management.runtimeconfig.json
+C:\Users\abdul\OneDrive\Desktop\BSC\CB010735 - SDAM II\Quiz System\Quiz Management\Quiz Management\bin\Debug\net6.0-windows\Quiz Management.dll
+C:\Users\abdul\OneDrive\Desktop\BSC\CB010735 - SDAM II\Quiz System\Quiz Management\Quiz Management\bin\Debug\net6.0-windows\Quiz Management.pdb
+C:\Users\abdul\OneDrive\Desktop\BSC\CB010735 - SDAM II\Quiz System\Quiz Management\Quiz Management\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\abdul\OneDrive\Desktop\BSC\CB010735 - SDAM II\Quiz System\Quiz Management\Quiz Management\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\abdul\OneDrive\Desktop\BSC\CB010735 - SDAM II\Quiz System\Quiz Management\Quiz Management\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\abdul\OneDrive\Desktop\BSC\CB010735 - SDAM II\Quiz System\Quiz Management\Quiz Management\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\abdul\OneDrive\Desktop\BSC\CB010735 - SDAM II\Quiz System\Quiz Management\Quiz Management\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\abdul\OneDrive\Desktop\BSC\CB010735 - SDAM II\Quiz System\Quiz Management\Quiz Management\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\abdul\OneDrive\Desktop\BSC\CB010735 - SDAM II\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\Quiz Management.csproj.AssemblyReference.cache
+C:\Users\abdul\OneDrive\Desktop\BSC\CB010735 - SDAM II\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\Quiz_Management.Candidate.resources
+C:\Users\abdul\OneDrive\Desktop\BSC\CB010735 - SDAM II\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\Quiz_Management.CandidatePortal.resources
+C:\Users\abdul\OneDrive\Desktop\BSC\CB010735 - SDAM II\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\Quiz_Management.CandidateRegister.resources
+C:\Users\abdul\OneDrive\Desktop\BSC\CB010735 - SDAM II\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\Quiz_Management.ExaminerRegister.resources
+C:\Users\abdul\OneDrive\Desktop\BSC\CB010735 - SDAM II\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\Quiz_Management.Examiner_addLecturer.resources
+C:\Users\abdul\OneDrive\Desktop\BSC\CB010735 - SDAM II\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\Quiz_Management.Examiner_AddQuestion.resources
+C:\Users\abdul\OneDrive\Desktop\BSC\CB010735 - SDAM II\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\Quiz_Management.Examiner_seeStudent.resources
+C:\Users\abdul\OneDrive\Desktop\BSC\CB010735 - SDAM II\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\Quiz_Management.Exams.resources
+C:\Users\abdul\OneDrive\Desktop\BSC\CB010735 - SDAM II\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\Quiz_Management.LecturerRegister.resources
+C:\Users\abdul\OneDrive\Desktop\BSC\CB010735 - SDAM II\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\Quiz_Management.Login.resources
+C:\Users\abdul\OneDrive\Desktop\BSC\CB010735 - SDAM II\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\Quiz_Management.Login2.resources
+C:\Users\abdul\OneDrive\Desktop\BSC\CB010735 - SDAM II\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\Quiz_Management.Login3.resources
+C:\Users\abdul\OneDrive\Desktop\BSC\CB010735 - SDAM II\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\Quiz_Management.Properties.Resources.resources
+C:\Users\abdul\OneDrive\Desktop\BSC\CB010735 - SDAM II\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\Quiz_Management.Questions.resources
+C:\Users\abdul\OneDrive\Desktop\BSC\CB010735 - SDAM II\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\Quiz_Management.Splash.resources
+C:\Users\abdul\OneDrive\Desktop\BSC\CB010735 - SDAM II\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\Quiz_Management.Subjects.resources
+C:\Users\abdul\OneDrive\Desktop\BSC\CB010735 - SDAM II\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\Quiz_Management.Testing.resources
+C:\Users\abdul\OneDrive\Desktop\BSC\CB010735 - SDAM II\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\Quiz_Management.Testing2.resources
+C:\Users\abdul\OneDrive\Desktop\BSC\CB010735 - SDAM II\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\Quiz Management.csproj.GenerateResource.cache
+C:\Users\abdul\OneDrive\Desktop\BSC\CB010735 - SDAM II\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\Quiz Management.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdul\OneDrive\Desktop\BSC\CB010735 - SDAM II\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\Quiz Management.AssemblyInfoInputs.cache
+C:\Users\abdul\OneDrive\Desktop\BSC\CB010735 - SDAM II\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\Quiz Management.AssemblyInfo.cs
+C:\Users\abdul\OneDrive\Desktop\BSC\CB010735 - SDAM II\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\Quiz Management.csproj.CoreCompileInputs.cache
+C:\Users\abdul\OneDrive\Desktop\BSC\CB010735 - SDAM II\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\Quiz Management.csproj.CopyComplete
+C:\Users\abdul\OneDrive\Desktop\BSC\CB010735 - SDAM II\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\Quiz Management.dll
+C:\Users\abdul\OneDrive\Desktop\BSC\CB010735 - SDAM II\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\refint\Quiz Management.dll
+C:\Users\abdul\OneDrive\Desktop\BSC\CB010735 - SDAM II\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\Quiz Management.pdb
+C:\Users\abdul\OneDrive\Desktop\BSC\CB010735 - SDAM II\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\Quiz Management.genruntimeconfig.cache
+C:\Users\abdul\OneDrive\Desktop\BSC\CB010735 - SDAM II\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\ref\Quiz Management.dll
+C:\Users\abdul\OneDrive\Desktop\Work\BSC\CB010735 - SDAM II\Quiz System\Quiz Management\Quiz Management\bin\Debug\net6.0-windows\Quiz Management.exe
+C:\Users\abdul\OneDrive\Desktop\Work\BSC\CB010735 - SDAM II\Quiz System\Quiz Management\Quiz Management\bin\Debug\net6.0-windows\Quiz Management.deps.json
+C:\Users\abdul\OneDrive\Desktop\Work\BSC\CB010735 - SDAM II\Quiz System\Quiz Management\Quiz Management\bin\Debug\net6.0-windows\Quiz Management.runtimeconfig.json
+C:\Users\abdul\OneDrive\Desktop\Work\BSC\CB010735 - SDAM II\Quiz System\Quiz Management\Quiz Management\bin\Debug\net6.0-windows\Quiz Management.dll
+C:\Users\abdul\OneDrive\Desktop\Work\BSC\CB010735 - SDAM II\Quiz System\Quiz Management\Quiz Management\bin\Debug\net6.0-windows\Quiz Management.pdb
+C:\Users\abdul\OneDrive\Desktop\Work\BSC\CB010735 - SDAM II\Quiz System\Quiz Management\Quiz Management\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\abdul\OneDrive\Desktop\Work\BSC\CB010735 - SDAM II\Quiz System\Quiz Management\Quiz Management\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\abdul\OneDrive\Desktop\Work\BSC\CB010735 - SDAM II\Quiz System\Quiz Management\Quiz Management\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\abdul\OneDrive\Desktop\Work\BSC\CB010735 - SDAM II\Quiz System\Quiz Management\Quiz Management\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\abdul\OneDrive\Desktop\Work\BSC\CB010735 - SDAM II\Quiz System\Quiz Management\Quiz Management\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\abdul\OneDrive\Desktop\Work\BSC\CB010735 - SDAM II\Quiz System\Quiz Management\Quiz Management\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\abdul\OneDrive\Desktop\Work\BSC\CB010735 - SDAM II\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\Quiz Management.csproj.AssemblyReference.cache
+C:\Users\abdul\OneDrive\Desktop\Work\BSC\CB010735 - SDAM II\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\Quiz_Management.Candidate.resources
+C:\Users\abdul\OneDrive\Desktop\Work\BSC\CB010735 - SDAM II\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\Quiz_Management.CandidatePortal.resources
+C:\Users\abdul\OneDrive\Desktop\Work\BSC\CB010735 - SDAM II\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\Quiz_Management.CandidateRegister.resources
+C:\Users\abdul\OneDrive\Desktop\Work\BSC\CB010735 - SDAM II\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\Quiz_Management.ExaminerRegister.resources
+C:\Users\abdul\OneDrive\Desktop\Work\BSC\CB010735 - SDAM II\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\Quiz_Management.Examiner_addLecturer.resources
+C:\Users\abdul\OneDrive\Desktop\Work\BSC\CB010735 - SDAM II\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\Quiz_Management.Examiner_AddQuestion.resources
+C:\Users\abdul\OneDrive\Desktop\Work\BSC\CB010735 - SDAM II\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\Quiz_Management.Examiner_seeStudent.resources
+C:\Users\abdul\OneDrive\Desktop\Work\BSC\CB010735 - SDAM II\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\Quiz_Management.Exams.resources
+C:\Users\abdul\OneDrive\Desktop\Work\BSC\CB010735 - SDAM II\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\Quiz_Management.LecturerRegister.resources
+C:\Users\abdul\OneDrive\Desktop\Work\BSC\CB010735 - SDAM II\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\Quiz_Management.Login.resources
+C:\Users\abdul\OneDrive\Desktop\Work\BSC\CB010735 - SDAM II\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\Quiz_Management.Login2.resources
+C:\Users\abdul\OneDrive\Desktop\Work\BSC\CB010735 - SDAM II\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\Quiz_Management.Login3.resources
+C:\Users\abdul\OneDrive\Desktop\Work\BSC\CB010735 - SDAM II\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\Quiz_Management.Properties.Resources.resources
+C:\Users\abdul\OneDrive\Desktop\Work\BSC\CB010735 - SDAM II\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\Quiz_Management.Questions.resources
+C:\Users\abdul\OneDrive\Desktop\Work\BSC\CB010735 - SDAM II\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\Quiz_Management.Splash.resources
+C:\Users\abdul\OneDrive\Desktop\Work\BSC\CB010735 - SDAM II\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\Quiz_Management.Subjects.resources
+C:\Users\abdul\OneDrive\Desktop\Work\BSC\CB010735 - SDAM II\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\Quiz_Management.Testing.resources
+C:\Users\abdul\OneDrive\Desktop\Work\BSC\CB010735 - SDAM II\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\Quiz_Management.Testing2.resources
+C:\Users\abdul\OneDrive\Desktop\Work\BSC\CB010735 - SDAM II\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\Quiz Management.csproj.GenerateResource.cache
+C:\Users\abdul\OneDrive\Desktop\Work\BSC\CB010735 - SDAM II\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\Quiz Management.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdul\OneDrive\Desktop\Work\BSC\CB010735 - SDAM II\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\Quiz Management.AssemblyInfoInputs.cache
+C:\Users\abdul\OneDrive\Desktop\Work\BSC\CB010735 - SDAM II\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\Quiz Management.AssemblyInfo.cs
+C:\Users\abdul\OneDrive\Desktop\Work\BSC\CB010735 - SDAM II\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\Quiz Management.csproj.CoreCompileInputs.cache
+C:\Users\abdul\OneDrive\Desktop\Work\BSC\CB010735 - SDAM II\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\Quiz Management.csproj.CopyComplete
+C:\Users\abdul\OneDrive\Desktop\Work\BSC\CB010735 - SDAM II\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\Quiz Management.dll
+C:\Users\abdul\OneDrive\Desktop\Work\BSC\CB010735 - SDAM II\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\refint\Quiz Management.dll
+C:\Users\abdul\OneDrive\Desktop\Work\BSC\CB010735 - SDAM II\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\Quiz Management.pdb
+C:\Users\abdul\OneDrive\Desktop\Work\BSC\CB010735 - SDAM II\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\Quiz Management.genruntimeconfig.cache
+C:\Users\abdul\OneDrive\Desktop\Work\BSC\CB010735 - SDAM II\Quiz System\Quiz Management\Quiz Management\obj\Debug\net6.0-windows\ref\Quiz Management.dll
